@@ -1,0 +1,25 @@
+column,description,valid_values,question_text
+response_id,Unique response ID,,
+mode,Interview mode,online; sms,
+status,Interview disposition,complete; partial; terminated,
+attention_check,Attention check result,Passed; Failed,
+duration_seconds,Survey duration in seconds,Integer,
+region,Nevada region,Clark; Washoe; Rural Nevada,
+county,County,County name,
+age,Age,18-84,
+gender,Gender,Male; Female,
+race_ethnicity,Race/ethnicity,White non-Hispanic; Hispanic/Latino; Black; Asian/Pacific Islander; Other/Mixed,
+education,Education,High school or less; Some college/associate; College graduate; Postgraduate,
+party_registration,Party registration,Democrat; Republican; Independent/Other,
+ideology,Ideology,Very liberal; Somewhat liberal; Moderate; Somewhat conservative; Very conservative,
+vote_2024,Recalled 2024 presidential vote,Harris; Trump; Other; Did not vote,
+homeownership,Housing status,Own; Rent; Other arrangement,
+children_home,Children under 18 at home,Yes; No,
+housing_cost_seriousness,Survey question,Very serious; Somewhat serious; Not too serious; Not at all serious,How serious of a problem is the cost of housing in the part of Nevada where you live?
+allow_more_housing,Survey question,Strongly support; Somewhat support; Somewhat oppose; Strongly oppose; Not sure,"Do you support or oppose requiring cities and counties to allow more apartments, townhomes, and smaller homes near jobs, schools, and transit?"
+rent_increase_limit,Survey question,Strongly support; Somewhat support; Somewhat oppose; Strongly oppose; Not sure,Do you support or oppose limiting how much landlords can raise rent each year?
+affordable_housing_tax_credits,Survey question,Strongly support; Somewhat support; Somewhat oppose; Strongly oppose; Not sure,Do you support or oppose giving tax credits to developers who build homes with below-market rents or prices?
+development_traffic_concern,Survey question,Very concerned; Somewhat concerned; Not too concerned; Not at all concerned,"How concerned are you that new housing development would increase traffic, crowding, or strain on local services?"
+corporate_buyer_restrictions,Survey question,Strongly support; Somewhat support; Somewhat oppose; Strongly oppose; Not sure,Do you support or oppose preventing large corporate investors from buying single-family homes in Nevada?
+public_land_housing,Survey question,Strongly support; Somewhat support; Somewhat oppose; Strongly oppose; Not sure,Do you support or oppose using some public land for new housing if it would lower housing costs?
+housing_priority_tradeoff,Survey question,Build more homes even if neighborhoods change; Protect existing neighborhoods even if fewer homes are built; Not sure,Which should be the higher priority for state and local leaders?
